@@ -1,1 +1,1 @@
-Olá esse projeto você a usar o Git
+Projeto para utilizar o Git
